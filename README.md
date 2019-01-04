@@ -1,2 +1,2 @@
 # SysBomb
-C++ malware, WARNING this may render your computer unusable for a while. it also removes alot of files.
+C++ malware, feel free to compile it, but im not responsible for what you do with it.
